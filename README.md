@@ -1,7 +1,7 @@
  Friend list demo
 =====================
 
-This repository is the source code for an example for the cop of 25/11/2016
+This repository is the source code for an example for the cop of 25/11/2016 where you can have a look at the usage of some ES2015 features.
  
 ### Usage
 
